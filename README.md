@@ -1,2 +1,2 @@
 # Portafolio
-Este es mi CV
+Este es mi CV https://pamelacubas.github.io/Portafolio/
